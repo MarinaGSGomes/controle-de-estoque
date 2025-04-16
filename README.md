@@ -1,5 +1,3 @@
-# controle-de-estoque
- controle-de-estoque
 # Controle de Estoque
 
 Este projeto é um sistema de controle de estoque que permite gerenciar a entrada e saída de produtos. O sistema é estruturado em várias camadas, seguindo boas práticas de programação em Python.
